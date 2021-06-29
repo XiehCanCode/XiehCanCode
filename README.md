@@ -1,6 +1,6 @@
 # Heya :wave:
 
-I'm a Human who's living a very boring life and maths sucks :angry:
+I'm a Human who's living a very boring life
 
 ## Skills?
 - Good at Python, C#, JavaScript(ew)
